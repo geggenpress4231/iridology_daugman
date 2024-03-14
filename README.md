@@ -51,8 +51,8 @@ To run these projects, you will need Java installed on your system for both Andr
 3. The service will be available at `http://localhost:8080/api/process` for processing images.
 
 <div style="display: flex;">
-  <img src="layout.png" alt="UI Layout" width="45%">
-  <img src="output.png" alt="Output" width="45%">
+  <img src="layout.png" alt="UI Layout" style="width: 50%;">
+  <img src="output.png" alt="Output" style="width: 50%;">
 </div>
 
 
