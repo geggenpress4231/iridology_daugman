@@ -6,6 +6,7 @@ This repository is divided into two main components:
    ![UI Layout](layout.png)
 
 3. **irisbackend**: A Spring Boot application that provides backend services for image processing. It receives image data from the frontend, performs various image processing operations, and returns the processed images.
+    ![Output](ouput.png)
 
 ## seismodemoapp
 
