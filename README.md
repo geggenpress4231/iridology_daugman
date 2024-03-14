@@ -50,8 +50,11 @@ To run these projects, you will need Java installed on your system for both Andr
 2. Run `mvn spring-boot:run` to start the Spring Boot application.
 3. The service will be available at `http://localhost:8080/api/process` for processing images.
 
-![UI Layout](layout.png)
-![Output](output.png)
+<div style="display: flex;">
+    <img src="seismodemoapp/layout.png" alt="UI Layout" width="400" style="margin-right: 20px;">
+    <img src="irisbackend/output.png" alt="Output" width="400">
+</div>
+
 
 ## Reference
 https://github.com/Magdalena318/IrisRecognitionDaugman/blob/master/images.jpg
