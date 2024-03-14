@@ -3,10 +3,10 @@
 This repository is divided into two main components:
 
 1. **seismodemoapp**: An Android application built with Java that serves as the UI for users to interact with. The app allows users to select images from their device and processes them through a backend service for analysis.
-   ![UI Layout](layout.png)
+   
 
 3. **irisbackend**: A Spring Boot application that provides backend services for image processing. It receives image data from the frontend, performs various image processing operations, and returns the processed images.
-    ![Output](ouput.png)
+    
 
 ## seismodemoapp
 
@@ -49,6 +49,9 @@ To run these projects, you will need Java installed on your system for both Andr
 1. Navigate to the `irisbackend` directory in your terminal or command prompt.
 2. Run `mvn spring-boot:run` to start the Spring Boot application.
 3. The service will be available at `http://localhost:8080/api/process` for processing images.
+
+![UI Layout](layout.png)
+![Output](output.png)
 
 ## Reference
 https://github.com/Magdalena318/IrisRecognitionDaugman/blob/master/images.jpg
