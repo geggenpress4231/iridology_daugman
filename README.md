@@ -3,8 +3,9 @@
 This repository is divided into two main components:
 
 1. **seismodemoapp**: An Android application built with Java that serves as the UI for users to interact with. The app allows users to select images from their device and processes them through a backend service for analysis.
+   ![UI Layout](layout.png)
 
-2. **irisbackend**: A Spring Boot application that provides backend services for image processing. It receives image data from the frontend, performs various image processing operations, and returns the processed images.
+3. **irisbackend**: A Spring Boot application that provides backend services for image processing. It receives image data from the frontend, performs various image processing operations, and returns the processed images.
 
 ## seismodemoapp
 
